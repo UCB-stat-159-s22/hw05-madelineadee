@@ -1,0 +1,9 @@
+name: hw05
+dependencies:
+  - python=2.7
+  - h5py=2.10
+  - numpy=1.16
+  - matplotlib=2.2
+  - scipy=1.2
+  - decorator=4.4
+  - ipykernel
